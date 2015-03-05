@@ -1,2 +1,5 @@
 1.0.1: 
     - First version
+1.0.2:
+    - Create shahiemseymor_emoticons table
+    - create_emoticons_table.php
